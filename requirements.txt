@@ -1,5 +1,5 @@
-numpy==2.3.3
+numpy==2.3.5
+numpy_financial==1.0.0
 pandas==2.3.3
-scikit_learn==1.7.2
 streamlit==1.50.0
 streamlit_echarts==0.4.0
