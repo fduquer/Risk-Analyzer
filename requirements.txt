@@ -3,3 +3,4 @@ numpy_financial==1.0.0
 pandas==2.3.3
 streamlit==1.50.0
 streamlit_echarts==0.4.0
+scikit-learn ==1.7.2
