@@ -1,5 +1,3 @@
-from turtle import color
-
 import codigo_de_ejecucion
 import numpy as np
 import numpy_financial as npf
